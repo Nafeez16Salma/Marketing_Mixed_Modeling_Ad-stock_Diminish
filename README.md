@@ -2,7 +2,7 @@
 MMM is a statistical tool that helps companies understand how each part of their marketing impacts customer behaviour, sales, and ROI
 
 # Modeling
-Used simple linear regression model as base model, considering Ad-stock Effect, Diminishing Return Effect
+Used simple linear regression model as base model, considering Ad-stock Effect, Diminishing Return Effect solved using Excel and Python
 
 # Ad-Stock
 the idea that the impact of an ad continues to influence consumers long after the ad campaign ends. Adstock is often measured as a decay rate, which indicates how much of the ad's impact carries over from one period to the next.
